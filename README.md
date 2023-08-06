@@ -4,10 +4,11 @@ Skyの楽器をMIDIキーボードで鳴らしたい。Apple Silicon Mac上のSk
 
 ## 必要なもの
 
-Skyの楽器をMIDIキーボードで鳴らすのに必要なもの
+midi2skykeyboardを使用してSkyの楽器をMIDIキーボードで鳴らすのに必要なもの
 
 - Apple Silicon搭載のMac
 - Sky (Mac OS版）
+- Locig Pro等のDAW (MIDIデータのルーティングに必要)
 - USB MIDIキーボード
 - Arduino Pro Micro
 - USBケーブルなど
